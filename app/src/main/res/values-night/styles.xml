@@ -7,8 +7,7 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:windowLightNavigationBar" tools:ignore="NewApi">false</item>
+        <item name="android:windowLightStatusBar">false</item>
     </style>
-
-    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.Material3.DynamicColors.Dark" />
 
 </resources>
